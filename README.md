@@ -1,4 +1,4 @@
-# Tech Pages Blog API
+# SOLID Blog API
 
 A RESTful Blog API 
 
