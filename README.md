@@ -17,6 +17,7 @@ composer install
 Copy `.env.example` and update database credentials.
 
 cp .env.example .env
+cp .env.example .env.testing
 
 
 Update `.env`:
