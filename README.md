@@ -5,7 +5,7 @@ A RESTful Blog API
 ## Installation
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/tech-pages.git
+git clone https://github.com/stephen-tembo-dev/tech-pages.git
 cd tech-pages
 
 
